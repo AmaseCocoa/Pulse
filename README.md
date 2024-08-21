@@ -1,5 +1,5 @@
-# FediChat
-An instant messenger compatible with ActivityPub, developed in parallel with Holo.
+# Pulse
+An instant messenger compatible with ActivityPub
 ## Restrictions on Federation
 * "Friend" in FediChat is treated as "follow" on ActivityPub.
 * Reactions to messages from remote users of software for which reactions are not available are treated as "Like".
